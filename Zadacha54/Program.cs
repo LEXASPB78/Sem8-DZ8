@@ -29,17 +29,17 @@ void SortMatrix(int[,] matrix)
     {
         for (int i = 0; i < matrix.GetLength(1) - 1; i++)
         {
-            int min_position = i;
+            int minPosition = i;
             for (int j = i + 1; j < matrix.GetLength(1); j++)
             {
-                if (matrix[k, j] < matrix[k, min_position])
+                if (matrix[k, j] < matrix[k, minPosition])
                 {
-                    min_position = j;
+                    minPosition = j;
                 }
             }
             int temp = matrix[k, i];
-            matrix[k, i] = matrix[k, min_position];
-            matrix[k, min_position] = temp;
+            matrix[k, i] = matrix[k, minPosition];
+            matrix[k, minPosition] = temp;
         }
     }
 }
