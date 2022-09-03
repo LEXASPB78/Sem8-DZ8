@@ -1,0 +1,15 @@
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\bin\Debug\net6.0\Zadacha62.exe
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\bin\Debug\net6.0\Zadacha62.deps.json
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\bin\Debug\net6.0\Zadacha62.runtimeconfig.json
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\bin\Debug\net6.0\Zadacha62.dll
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\bin\Debug\net6.0\Zadacha62.pdb
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.csproj.AssemblyReference.cache
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.AssemblyInfoInputs.cache
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.AssemblyInfo.cs
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.csproj.CoreCompileInputs.cache
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.dll
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\obj\Debug\net6.0\refint\Zadacha62.dll
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.pdb
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.genruntimeconfig.cache
+C:\Users\ashkr\OneDrive\Рабочий стол\Sem8-DZ8\Zadacha62\obj\Debug\net6.0\ref\Zadacha62.dll
